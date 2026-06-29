@@ -197,7 +197,7 @@ function Hero() {
           className="availability"
         >
           <span className="pulse-dot" />
-          Open to meaningful React opportunities
+          Open to Full Stack opportunities
         </div>
 
         <p
@@ -211,7 +211,7 @@ function Hero() {
           I build digital products
           <span className="outline-text">that move business forward.</span>
         </h1>
-        <WaterReflection text="React Developer" />
+        <WaterReflection text="Full Stack Developer" />
 
         <div
           className="hero-bottom"
@@ -221,11 +221,11 @@ function Hero() {
             <span
                 
               >
-                React Developer
+                Full Stack Developer
               </span>
           </div>
           <p>
-            React.js developer with 2+ years of experience creating scalable,
+            Full Stack developer with 2.5+ years of experience creating scalable,
             role-based applications and polished responsive interfaces.
           </p>
           <div className="hero-actions">
