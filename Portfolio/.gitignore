@@ -1,0 +1,5 @@
+node_modules
+dist
+.vite
+.resume-tools
+*.local
